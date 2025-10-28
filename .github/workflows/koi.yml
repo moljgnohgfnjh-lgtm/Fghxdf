@@ -1,4 +1,4 @@
-name: RDP
+name: koi
 on:
   workflow_dispatch:
 jobs:
