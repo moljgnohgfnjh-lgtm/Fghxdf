@@ -1,4 +1,4 @@
-name: koi
+name: koii
 on:
   workflow_dispatch:
 jobs:
