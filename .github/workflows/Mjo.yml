@@ -1,4 +1,4 @@
-name: koiif
+name: Mjo
 on:
   workflow_dispatch:
 jobs:
